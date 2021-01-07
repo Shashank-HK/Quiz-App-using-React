@@ -1,0 +1,180 @@
+#cat-main {
+    background-image: url('../../assets/image/main-outer-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .options-container {
+        /*background-image: url('../../assets/image/cat-inner-bg.jpg');
+        background-size: cover;
+        background-position: center;*/
+        text-align: center;
+        padding-left: $med;
+        padding-right: $med;
+        margin-top: $sm;
+        margin-bottom: $sm;
+        height: 60%;
+        width: 90%;
+    }
+    /*button {
+        margin-right: auto;
+        margin-left: auto;
+    }*/
+    .option-group {
+        li {
+            display: inline-block;
+            text-align: center;
+            vertical-align: top;
+            height: 70%;
+            width: 30%;
+        }
+        #gk {
+            background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url('../../assets/image/gk.jpg');
+            background-size: cover;
+            background-position: center;
+            &:hover,
+            &:active,
+            &:focus {
+                background-image: url('../../assets/image/gk.jpg');
+            }
+        }
+        #comp {
+            background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url('../../assets/image/comp.jpg');
+            background-size: cover;
+            background-position: center;
+            &:hover,
+            &:active,
+            &:focus {
+                background-image: url('../../assets/image/comp.jpg');
+            }
+        }
+        #sport {
+            background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url('../../assets/image/sport.jpg');
+            background-size: cover;
+            background-position: center;
+            &:hover,
+            &:active,
+            &:focus {
+                background-image: url('../../assets/image/sport.jpg');
+            }
+        }
+        #movie {
+            background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url('../../assets/image/movie.jpg');
+            background-size: cover;
+            background-position: center;
+            &:hover,
+            &:active,
+            &:focus {
+                background-image: url('../../assets/image/movie.jpg');
+            }
+        }
+        #hist {
+            background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url('../../assets/image/hist.jpg');
+            background-size: cover;
+            background-position: center;
+            &:hover,
+            &:active,
+            &:focus {
+                background-image: url('../../assets/image/hist.jpg');
+            }
+        }
+        #animal {
+            background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url('../../assets/image/animal.jpg');
+            background-size: cover;
+            background-position: center;
+            &:hover,
+            &:active,
+            &:focus {
+                background-image: url('../../assets/image/animal.jpg');
+            }
+        }
+    }
+    .cat-button {
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 1rem;
+        outline: none;
+        width: 80%;
+        height: 10rem;
+        font-size: $med;
+        color: $off-white;
+        border: none;
+        cursor: pointer;
+        padding: $sm;
+        border-radius: 40px;
+        &:hover {
+            background-color: darken($violet, 10%);
+            box-shadow: $shadow;
+        }
+    }
+    h1 {
+        text-shadow: $text-shadow;
+        color: $off-white;
+        margin-bottom: 2rem;
+    }
+    h4 {
+        text-shadow: $text-shadow;
+        color: $off-white;
+    }
+    /*.name-container {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    h3 {
+        background-color: $dark-green;
+        color: $off-white;
+        border: none;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        margin: 0 auto;
+        width: 60%;
+    }
+    in html part -----
+    <div className="name-container">
+        <h4>Selected Category :</h4>
+        <h3>{this.state.cat_name}</h3>
+    </div>
+    */
+    .play-button {
+        text-decoration: none;
+        margin-top: 2rem;
+        margin-bottom: 2.4rem;
+        width: 50rem;
+        font-size: $sm;
+        background-color: $orange;
+        color: $off-white;
+        cursor: pointer;
+        padding: $sm 0;
+        display: flex;
+        justify-content: space-around;
+        border-radius: 20px;
+        &:hover {
+            background-color: darken($orange, 10%);
+            box-shadow: $shadow;
+        }
+    }
+}
+
+@media(max-width: $med-breakpoint) {
+    #cat-main {
+        .option-group {
+            li {
+                display: block;
+                width: 100%;
+            }
+        }
+        .cat-button {
+            width: 100%;
+        }
+        .options-container {
+            padding: 0 $normal;
+            background-color: rgba(0, 0, 0, 0);
+            width: 100%;
+            height: 80%;
+        }
+        .play-button {
+            width: 20rem;
+        }
+    }
+}

@@ -1,0 +1,68 @@
+#home {
+    background-image: url('../../assets/image/home-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    width: 100vw;
+    section {
+        background-color: rgba(0, 0, 0, 0.5);
+        padding-left: $med;
+        padding-right: $med;
+        height: 80%;
+        width: 40%;
+    }
+    .icon {
+        text-align: center;
+    }
+    h1 {
+        font-size: $lg;
+        text-align: center;
+        color: $off-white;
+    }
+    .next-button-container {
+        width: 100%;
+    }
+    .username {
+        text-align: center;
+        font-size: $normal;
+        background-color: transparent;
+        margin-top: $lg;
+        color: #eeeeee;
+        outline: none;
+        outline-style: none;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        border-bottom: solid gray 1px;
+        padding: 3px 10px;
+        &::placeholder {
+            color: white;
+        }
+    }
+    .next-button {
+        text-decoration: none;
+        margin-top: 5rem;
+        font-size: $sm;
+        background-color: $orange;
+        color: $off-white;
+        cursor: pointer;
+        padding: $normal 0;
+        display: flex;
+        justify-content: space-around;
+        border-radius: 25px;
+        &:hover {
+            background-color: darken($orange, 10%);
+            box-shadow: $shadow;
+        }
+    }
+}
+
+@media(max-width: $med-breakpoint) {
+    #home section {
+        padding: 0 $normal;
+        width: 100%;
+        height: 100%;
+    }
+}

@@ -1,0 +1,301 @@
+[{
+        "category": "History",
+        "difficulty": "medium",
+        "question": "What event marked the start of World War II?",
+        "correct_answer": "Invasion of Poland (1939)",
+        "options_1": "Invasion of Russia (1942)",
+        "options_2": "Battle of Britain (1940)",
+        "options_3": "Invasion of Normandy (1944)",
+        "options_4": "Invasion of Poland (1939)"
+    },
+    {
+        "category": "History",
+        "difficulty": "hard",
+        "question": "With which Greek philosopher would you associate the phrase, 'I know that I know nothing'?",
+        "correct_answer": "Socrates",
+        "options_1": "Aristotle",
+        "options_2": "Plato",
+        "options_3": "Pythagoras",
+        "options_4": "Socrates"
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "Which of his six wives was Henry VIII married to the longest?",
+        "correct_answer": "Catherine of Aragon",
+        "options_1": "Anne Boleyn",
+        "options_2": "Jane Seymour",
+        "options_3": "Catherine Parr",
+        "options_4": "Catherine of Aragon"
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "The Herero genocide was perpetrated in Africa by which of the following colonial nations?",
+        "correct_answer": "Germany",
+        "options_1": "Britain",
+        "options_2": "Belgium",
+        "options_3": "France",
+        "options_4": "Germany"
+    },
+    {
+        "category": "History",
+        "difficulty": "easy",
+        "question": "Which famous world leader is famed for the saying, 'Let them eat cake', yet is rumored that he/she never said it at all?",
+        "correct_answer": "Marie Antoinette",
+        "options_1": "Czar Nicholas II",
+        "options_2": "Elizabeth I",
+        "options_3": "Henry VIII",
+        "options_4": "Marie Antoinette"
+    },
+    {
+        "category": "History",
+        "difficulty": "easy",
+        "question": "The collapse of the Soviet Union took place in which year?",
+        "correct_answer": "1991",
+        "options_1": "1992",
+        "options_2": "1891",
+        "options_3": "1990",
+        "options_4": "1991"
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "On which day did the attempted coup d'etat of 1991 in the Soviet Union begin?",
+        "correct_answer": "August-19",
+        "options_1": "August-21",
+        "options_2": "December-26",
+        "options_3": "December-24",
+        "options_4": "August-19"
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "How old was Lyndon B. Johnson when he assumed the role of President of the United States?",
+        "correct_answer": "55",
+        "options_1": "50",
+        "options_2": "60",
+        "options_3": "54",
+        "options_4": "55"
+    },
+    {
+        "category": "History",
+        "difficulty": "hard",
+        "question": "During the Roman Triumvirate of 42 BCE, what region of the Roman Republic was given to Lepidus?",
+        "correct_answer": "Hispania",
+        "options_1": "Italia",
+        "options_2": "Gallia",
+        "options_3": "Asia",
+        "options_4": "Hispania"
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "Adolf Hitler was born on which date?",
+        "correct_answer": "April 20, 1889",
+        "options_1": "June 12, 1889",
+        "options_2": "February 6, 1889",
+        "options_3": "April 16, 1889",
+        "options_4": "April 20, 1889"
+    },
+    {
+        "category": "History",
+        "difficulty": "hard",
+        "question": "In which year did the Tokyo Subway Sarin Attack occur?",
+        "correct_answer": "1995",
+        "options_1": "2001",
+        "options_2": "2011",
+        "options_3": "1991",
+        "options_4": "1995"
+    },
+    {
+        "category": "History",
+        "difficulty": "easy",
+        "question": "Who was the Prime Minister of Japan when Japan declared war on the US?",
+        "correct_answer": "Hideki Tojo",
+        "options_1": "Michinomiya Hirohito",
+        "options_2": "Isoroku Yamamoto",
+        "options_3": "Fumimaro Konoe",
+        "options_4": "Hideki Tojo"
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "Which WWII tank ace is credited with having destroyed the most tanks?",
+        "correct_answer": "Kurt Knispel",
+        "options_1": "Michael Wittmann",
+        "options_2": "Walter Kniep",
+        "options_3": "Otto Carius",
+        "options_4": "Kurt Knispel"
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "Which building was set aflame on August 24th, 1812?",
+        "correct_answer": "The White House",
+        "options_1": "Parliament Building",
+        "options_2": "Grand National Assembly Building",
+        "options_3": "Palace of the Nation",
+        "options_4": "The White House"
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "When did Norway get its constitution?",
+        "correct_answer": "1814",
+        "options_1": "1932",
+        "options_2": "1905",
+        "options_3": "1854",
+        "options_4": "1814"
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "Which of the following snipers has the highest amount of confirmed kills?",
+        "correct_answer": "Simo Häyhä",
+        "options_1": "Chris Kyle",
+        "options_2": "Vasily Zaytsev",
+        "options_3": "Craig Harrison",
+        "options_4": "Simo Häyhä"
+    },
+    {
+        "category": "History",
+        "difficulty": "easy",
+        "question": "Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?",
+        "correct_answer": "The Polish President",
+        "options_1": "Pope John Paul II",
+        "options_2": "Bang-Ding Ow",
+        "options_3": "Albert Putin",
+        "options_4": "The Polish President"
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "In what year did Kentucky become the 15th state to join the union?",
+        "correct_answer": "1792",
+        "options_1": "1782",
+        "options_2": "1798",
+        "options_3": "1788",
+        "options_4": "1792"
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "When did the British hand-over sovereignty of Hong Kong back to China?",
+        "correct_answer": "1997",
+        "options_1": "1999",
+        "options_2": "1841",
+        "options_3": "1900",
+        "options_4": "1997"
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "Which country gifted the Statue of Liberty to the United States of America?",
+        "correct_answer": "France",
+        "options_1": "Spain",
+        "options_2": "England",
+        "options_3": "Germany",
+        "options_4": "France"
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "What was the code name for the German invasion of the Soviet Union in WW2?",
+        "correct_answer": "Operation Barbarossa",
+        "options_1": "Operation Kaiserschlact",
+        "options_2": "Operation Unthinkable",
+        "options_3": "Operation Molotov",
+        "options_4": "Operation Barbarossa"
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "When did construction of the Suez Canal finish?",
+        "correct_answer": "1869",
+        "options_1": "1859",
+        "options_2": "1860",
+        "options_3": "1850",
+        "options_4": "1869"
+    },
+    {
+        "category": "History",
+        "difficulty": "easy",
+        "question": "What is the historical name of Sri Lanka?",
+        "correct_answer": "Ceylon",
+        "options_1": "Myanmar",
+        "options_2": "Colombo",
+        "options_3": "Badulla",
+        "options_4": "Ceylon"
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "In 1845, a series of wars named after which indigenous people began in New Zealand?",
+        "correct_answer": "Māori",
+        "options_1": "Papuans",
+        "options_2": "Aborigines",
+        "options_3": "Polynesians",
+        "options_4": "Māori"
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "Which of these 1900s tanks were designed and built BEFORE the others?",
+        "correct_answer": "Renault FT",
+        "options_1": "M4 Sherman",
+        "options_2": "Panzer IV",
+        "options_3": "Cromwell",
+        "options_4": "Renault FT"
+    },
+    {
+        "category": "History",
+        "difficulty": "hard",
+        "question": "Who was the first man to travel into outer space twice?",
+        "correct_answer": "Gus Grissom",
+        "options_1": "Vladimir Komarov",
+        "options_2": "Charles Conrad",
+        "options_3": "Yuri Gagarin",
+        "options_4": "Gus Grissom"
+    },
+    {
+        "category": "History",
+        "difficulty": "hard",
+        "question": "The pantheon in Rome was used to worship what god?",
+        "correct_answer": "Any god they wanted",
+        "options_1": "Athena",
+        "options_2": "Zeus",
+        "options_3": "Both Athena and Zeus",
+        "options_4": "Any god they wanted"
+    },
+    {
+        "category": "History",
+        "difficulty": "hard",
+        "question": "After the 1516 Battle of Marj Dabiq, the Ottoman Empire took control of Jerusalem from which sultanate?",
+        "correct_answer": "Mamluk",
+        "options_1": "Ayyubid",
+        "options_2": "Ummayyad",
+        "options_3": "Seljuq",
+        "options_4": "Mamluk"
+    },
+    {
+        "category": "History",
+        "difficulty": "easy",
+        "question": "Which famous military commander marched an army, which included war elephants, over the Alps during the Second Punic War?",
+        "correct_answer": "Hannibal",
+        "options_1": "Garmanicus",
+        "options_2": "Alexander the Great",
+        "options_3": "Tiberius",
+        "options_4": "Hannibal"
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "John Moses Browning, the designer of the M1918 BAR (Browning Automatic Rifle) was a part of which religion?",
+        "correct_answer": "Mormon",
+        "options_1": "Catholic",
+        "options_2": "Jewish",
+        "options_3": "Atheist",
+        "options_4": "Mormon"
+    }
+]

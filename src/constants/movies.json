@@ -1,0 +1,301 @@
+[{
+        "category": "Movies",
+        "difficulty": "easy",
+        "question": "Who starred as Bruce Wayne and Batman in Tim Burton's 1989 movie 'Batman'?",
+        "correct_answer": "Michael Keaton",
+        "options_1": "George Clooney",
+        "options_2": "Val Kilmer",
+        "options_3": "Adam West",
+        "options_4": "Michael Keaton"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "medium",
+        "question": "Which retired American football quarterback played himself in 'Ace Ventura: Pet Detective' and 'Little Nicky'?",
+        "correct_answer": "Dan Marino",
+        "options_1": "John Elway",
+        "options_2": "Tom Brady",
+        "options_3": "Joe Montana",
+        "options_4": "Dan Marino"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "medium",
+        "question": "Who voiced the character Draco in the 1996 movie 'DragonHeart'?",
+        "correct_answer": "Sean Connery",
+        "options_1": "Dennis Quaid",
+        "options_2": "Pete Postlethwaite",
+        "options_3": "Brian Thompson",
+        "options_4": "Sean Connery"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "easy",
+        "question": "The Queen song 'A Kind Of Magic' is featured in which 1986 film?",
+        "correct_answer": "Highlander",
+        "options_1": "Flash Gordon",
+        "options_2": "Labyrinth",
+        "options_3": "Howard the Duck",
+        "options_4": "Highlander"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "easy",
+        "question": "What was the title of the first Bond movie, released in 1962?",
+        "correct_answer": "Dr. No",
+        "options_1": "From Russia with Love",
+        "options_2": "Goldfinger",
+        "options_3": "Thunderball",
+        "options_4": "Dr. No"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "hard",
+        "question": "What did Alfred Hitchcock use as blood in the film 'Psycho'?",
+        "correct_answer": "Chocolate syrup",
+        "options_1": "Ketchup",
+        "options_2": "Red food coloring",
+        "options_3": "Maple syrup",
+        "options_4": "Chocolate syrup"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "medium",
+        "question": "Who directed the 1973 film 'American Graffiti'?",
+        "correct_answer": "George Lucas",
+        "options_1": "Ron Howard",
+        "options_2": "Francis Ford Coppola",
+        "options_3": "Steven Spielberg",
+        "options_4": "George Lucas"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "medium",
+        "question": "This movie contains the quote, 'I love the smell of napalm in the morning!'",
+        "correct_answer": "Apocalypse Now",
+        "options_1": "Platoon",
+        "options_2": "The Deer Hunter",
+        "options_3": "Full Metal Jacket",
+        "options_4": "Apocalypse Now"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "easy",
+        "question": "This movie contains the quote, 'Nobody puts Baby in a corner.'",
+        "correct_answer": "Dirty Dancing",
+        "options_1": "Three Men and a Baby",
+        "options_2": "Ferris Bueller's Day Off",
+        "options_3": "Pretty in Pink",
+        "options_4": "Dirty Dancing"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "easy",
+        "question": "What was the first James Bond film?",
+        "correct_answer": "Dr. No",
+        "options_1": "Goldfinger",
+        "options_2": "From Russia With Love",
+        "options_3": "Thunderball",
+        "options_4": "Dr. No"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "hard",
+        "question": "What did the first moving picture depict?",
+        "correct_answer": "A galloping horse",
+        "options_1": "A woman in a dress",
+        "options_2": "A man walking",
+        "options_3": "A crackling fire",
+        "options_4": "A galloping horse"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "easy",
+        "question": "Which movie includes a giant bunny-like spirit who has magic powers including growing trees?",
+        "correct_answer": "My Neighbor Totoro",
+        "options_1": "Hop",
+        "options_2": "Rise of the Guardians",
+        "options_3": "Alice in Wonderland",
+        "options_4": "My Neighbor Totoro"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "medium",
+        "question": "What is the name of the villian in the 2015 Russian-American Sci-Fi Movie 'Hardcore Henry'?",
+        "correct_answer": "Akan",
+        "options_1": "Estelle",
+        "options_2": "Jimmy",
+        "options_3": "Henry",
+        "options_4": "Akan"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "medium",
+        "question": "Who played Baron Victor Frankestein in the 1957 Hammer horror film 'The Curse of Frankenstein'?",
+        "correct_answer": "Peter Cushing",
+        "options_1": "Boris Karloff",
+        "options_2": "Vincent Price",
+        "options_3": "Lon Chaney Jr.",
+        "options_4": "Peter Cushing"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "easy",
+        "question": "Who is the main protagonist in, the 1985 film, Back to the Future?",
+        "correct_answer": "Marty McFly",
+        "options_1": "Emmett 'Doc' Brown",
+        "options_2": "Biff Tannen",
+        "options_3": "George McFly",
+        "options_4": "Marty McFly"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "easy",
+        "question": "In the movie 'Cast Away' the main protagonist's best friend while on the island is named",
+        "correct_answer": "Wilson",
+        "options_1": "Carson",
+        "options_2": "Jackson",
+        "options_3": "Willy",
+        "options_4": "Wilson"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "medium",
+        "question": "What is the correct phrase for the Latin saying 'Romanes Eunt Domus' in Monty Python's Life of Brian?",
+        "correct_answer": "Romani Ite Domum",
+        "options_1": "Romans Go Home",
+        "options_2": "Roxani Ite Domum",
+        "options_3": "Tomate Ite Domum",
+        "options_4": "Romani Ite Domum"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "medium",
+        "question": "In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?",
+        "correct_answer": "October 21, 2015",
+        "options_1": "August 28, 2015",
+        "options_2": "July 20, 2015",
+        "options_3": "January 25, 2015",
+        "options_4": "October 21, 2015"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "medium",
+        "question": "What city did the monster attack in the film, 'Cloverfield'?",
+        "correct_answer": "New York, New York",
+        "options_1": "Las Vegas, Nevada",
+        "options_2": "Chicago, Illinois",
+        "options_3": "Orlando, Florida",
+        "options_4": "New York, New York"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "easy",
+        "question": "In the 2012 film, 'The Lorax', who is the antagonist?",
+        "correct_answer": "Aloysius O'Hare",
+        "options_1": "Ted Wiggins",
+        "options_2": "The Once-Ler",
+        "options_3": "Grammy Norma",
+        "options_4": "Aloysius O'Hare"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "hard",
+        "question": "In the 'Jurassic Park' universe, what was the first dinosaur cloned by InGen in 1986?",
+        "correct_answer": "Velociraptor",
+        "options_1": "Triceratops",
+        "options_2": "Troodon",
+        "options_3": "Brachiosaurus",
+        "options_4": "Velociraptor"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "medium",
+        "question": "Who directed the movie 'Alien'?",
+        "correct_answer": "Ridley Scott",
+        "options_1": "Christopher Nolan",
+        "options_2": "Michael Bay",
+        "options_3": "James Cameron",
+        "options_4": "Ridley Scott"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "hard",
+        "question": "Which actors made up the trio in 'The Good, the Bad, and the Ugly'?",
+        "correct_answer": "Clint Eastwood, Eli Wallach, and Lee Van Cleef",
+        "options_1": "Sergio Leone, Ennio Morricone, and Tonino Delli Colli",
+        "options_2": "Yul Brynner, Steve McQueen, and Charles Bronson",
+        "options_3": "Aldo Giuffrè;, Mario Brega, and Luigi Pistilli",
+        "options_4": "Clint Eastwood, Eli Wallach, and Lee Van Cleef"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "medium",
+        "question": "Which actor plays the character 'Tommy Jarvis' in 'Friday the 13th: The Final Chapter' (1984)?",
+        "correct_answer": "Corey Feldman",
+        "options_1": "Macaulay Culkin",
+        "options_2": "Mel Gibson",
+        "options_3": "Mark Hamill",
+        "options_4": "Corey Feldman"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "medium",
+        "question": "Which former Star Trek actor directed Three Men and a Baby (1987)?",
+        "correct_answer": "Leonard Nimoy",
+        "options_1": "William Shatner",
+        "options_2": "George Takei",
+        "options_3": "James Doohan",
+        "options_4": "Leonard Nimoy"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "easy",
+        "question": "In Big Hero 6, what fictional city is the Big Hero 6 from?",
+        "correct_answer": "San Fransokyo",
+        "options_1": "San Tokyo",
+        "options_2": "Tokysisco",
+        "options_3": "Sankyo",
+        "options_4": "San Fransokyo"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "hard",
+        "question": "Which sci-fi cult films plot concerns aliens attempting to prevent humans from creating a doomsday weapon?",
+        "correct_answer": "Plan 9 from Outer Space",
+        "options_1": "The Man from Planet X",
+        "options_2": "It Came from Outer Space",
+        "options_3": "The Day The Earth Stood Still",
+        "options_4": "Plan 9 from Outer Space"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "medium",
+        "question": "Who performed the opening theme song for the James Bond 007 movie 'Goldfinger'?",
+        "correct_answer": "Shirley Basey",
+        "options_1": "Tom Jones",
+        "options_2": "John Barry",
+        "options_3": "Sheena Easton",
+        "options_4": "Shirley Basey"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "medium",
+        "question": "What is the name of the character Nicolas Cage plays in the movie 'National Treasure?'",
+        "correct_answer": "Benjamin Franklin Gates",
+        "options_1": "Thomas Jefferson Walker",
+        "options_2": "George Washington Swanson",
+        "options_3": "John Quincy Beckett",
+        "options_4": "Benjamin Franklin Gates"
+    },
+    {
+        "category": "Movies",
+        "difficulty": "hard",
+        "question": "What was the wifi password given to Stephen Strange in Doctor Strange?",
+        "correct_answer": "Shambala",
+        "options_1": "Peace",
+        "options_2": "Ancient",
+        "options_3": "Chakra",
+        "options_4": "Shambala"
+    }
+]

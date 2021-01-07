@@ -1,0 +1,301 @@
+[{
+        "category": "Computers",
+        "difficulty": "hard",
+        "question": "The Harvard architecture for micro-controllers added which additional bus?",
+        "correct_answer": "Instruction",
+        "options_1": "Address",
+        "options_2": "Data",
+        "options_3": "Control",
+        "options_4": "Instruction"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "easy",
+        "question": "What does CPU stand for?",
+        "correct_answer": "Central Processing Unit",
+        "options_1": "Central Process Unit",
+        "options_2": "Computer Personal Unit",
+        "options_3": "Central Processor Unit",
+        "options_4": "Central Processing Unit"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "easy",
+        "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+        "correct_answer": "1000",
+        "options_1": "512",
+        "options_2": "1024",
+        "options_3": "500",
+        "options_4": "1000"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "easy",
+        "question": "When Gmail first launched, how much storage did it provide for your email?",
+        "correct_answer": "1GB",
+        "options_1": "512MB",
+        "options_2": "5GB",
+        "options_3": "Unlimited",
+        "options_4": "1GB"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "easy",
+        "question": "If you were to code software in this language you'd only be able to type 0's and 1's.",
+        "correct_answer": "Binary",
+        "options_1": "JavaScript",
+        "options_2": "C++",
+        "options_3": "Python",
+        "options_4": "Binary"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "easy",
+        "question": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+        "correct_answer": "HD Graphics 500",
+        "options_1": "HD Graphics 700",
+        "options_2": "HD Graphics 600",
+        "options_3": "HD Graphics 7000",
+        "options_4": "HD Graphics 500"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "medium",
+        "question": "Nvidia's headquarters are based in which Silicon Valley city?",
+        "correct_answer": "Santa Clara",
+        "options_1": "Palo Alto",
+        "options_2": "Cupertino",
+        "options_3": "Mountain View",
+        "options_4": "Santa Clara"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "easy",
+        "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+        "correct_answer": ".svg",
+        "options_1": ".png",
+        "options_2": ".jpeg",
+        "options_3": ".gif",
+        "options_4": ".svg"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "easy",
+        "question": "What is the code name for the mobile operating system Android 7.0?",
+        "correct_answer": "Nougat",
+        "options_1": "Ice Cream Sandwich",
+        "options_2": "Jelly Bean",
+        "options_3": "Marshmallow",
+        "options_4": "Nougat"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "medium",
+        "question": "While Apple was formed in California, in which western state was Microsoft founded?",
+        "correct_answer": "New Mexico",
+        "options_1": "Washington",
+        "options_2": "Colorado",
+        "options_3": "Arizona",
+        "options_4": "New Mexico"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "medium",
+        "question": "Generally, which component of a computer draws the most power?",
+        "correct_answer": "Video Card",
+        "options_1": "Hard Drive",
+        "options_2": "Processor",
+        "options_3": "Power Supply",
+        "options_4": "Video Card"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "medium",
+        "question": "In the server hosting industry IaaS stands for:",
+        "correct_answer": "Infrastructure as a Service",
+        "options_1": "Internet as a Service",
+        "options_2": "Internet and a Server",
+        "options_3": "Infrastructure as a Server",
+        "options_4": "Infrastructure as a Service"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "medium",
+        "question": "In the programming language 'Python', which of these statements would display the string 'Hello World' correctly?",
+        "correct_answer": "print('Hello World')",
+        "options_1": "console.log('Hello World')",
+        "options_2": "echo 'Hello World'",
+        "options_3": "printf('Hello World')",
+        "options_4": "print('Hello World')"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "medium",
+        "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+        "correct_answer": "<marquee></marquee>",
+        "options_1": "<scroll></scroll>",
+        "options_2": "<move></move>",
+        "options_3": "<slide></slide>",
+        "options_4": "<marquee></marquee>"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "hard",
+        "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+        "correct_answer": "Heartbleed",
+        "options_1": "Shellshock",
+        "options_2": "Corrupted Blood",
+        "options_3": "Shellscript",
+        "options_4": "Heartbleed"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "easy",
+        "question": "What does LTS stand for in the software market?",
+        "correct_answer": "Long Term Support",
+        "options_1": "Long Taco Service",
+        "options_2": "Ludicrous Transfer Speed",
+        "options_3": "Ludicrous Turbo Speed",
+        "options_4": "Long Term Support"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "medium",
+        "question": "In computing terms, typically what does CLI stand for?",
+        "correct_answer": "Command Line Interface",
+        "options_1": "Common Language Input",
+        "options_2": "Control Line Interface",
+        "options_3": "Common Language Interface",
+        "options_4": "Command Line Interface"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "hard",
+        "question": "Who is the original author of the realtime physics engine called PhysX?",
+        "correct_answer": "NovodeX",
+        "options_1": "Ageia",
+        "options_2": "Nvidia",
+        "options_3": "AMD",
+        "options_4": "NovodeX"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "medium",
+        "question": "Which operating system was released first?",
+        "correct_answer": "Mac OS",
+        "options_1": "Windows",
+        "options_2": "Linux",
+        "options_3": "OS/2",
+        "options_4": "Mac OS"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "hard",
+        "question": "Which of the following is the oldest of these computers by release date?",
+        "correct_answer": "TRS-80",
+        "options_1": "Commodore 64",
+        "options_2": "ZX Spectrum",
+        "options_3": "Apple 3",
+        "options_4": "TRS-80"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "hard",
+        "question": "America Online (AOL) started out as which of these online service providers?",
+        "correct_answer": "Quantum Link",
+        "options_1": "CompuServe",
+        "options_2": "Prodigy",
+        "options_3": "GEnie",
+        "options_4": "Quantum Link"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "hard",
+        "question": "What internet protocol was documented in RFC 1459?",
+        "correct_answer": "IRC",
+        "options_1": "HTTP",
+        "options_2": "HTTPS",
+        "options_3": "FTP",
+        "options_4": "IRC"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "medium",
+        "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+        "correct_answer": "Non-impact printer",
+        "options_1": "Impact printer",
+        "options_2": "Daisywheel printer",
+        "options_3": "Dot matrix printer",
+        "options_4": "Non-impact printer"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "hard",
+        "question": "Released in 2001, the first edition of Apple's Mac OS X operating system (version 10.0) was given what animal code name?",
+        "correct_answer": "Cheetah",
+        "options_1": "Puma",
+        "options_2": "Tiger",
+        "options_3": "Leopard",
+        "options_4": "Cheetah"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "hard",
+        "question": "What vulnerability ranked #1 on the OWASP Top 10 in 2013?",
+        "correct_answer": "Injection",
+        "options_1": "Broken Authentication",
+        "options_2": "Cross-Site Scripting",
+        "options_3": "Insecure Direct Object References",
+        "options_4": "Injection"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "easy",
+        "question": "In computing, what does MIDI stand for?",
+        "correct_answer": "Musical Instrument Digital Interface",
+        "options_1": "Musical Interface of Digital Instruments",
+        "options_2": "Modular Interface of Digital Instruments",
+        "options_3": "Musical Instrument Data Interface",
+        "options_4": "Musical Instrument Digital Interface"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "hard",
+        "question": "Which of these is NOT a layer in the OSI model for data communications?",
+        "correct_answer": "Connection Layer",
+        "options_1": "Application Layer",
+        "options_2": "Transport Layer",
+        "options_3": "Physical Layer",
+        "options_4": "Connection Layer"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "medium",
+        "question": "What is the number of keys on a standard Windows Keyboard?",
+        "correct_answer": "104",
+        "options_1": "64",
+        "options_2": "94",
+        "options_3": "76",
+        "options_4": "104"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "hard",
+        "question": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+        "correct_answer": "ADPCM Sampler",
+        "options_1": "FM Synthesizer",
+        "options_2": "Programmable Sound Generator (PSG)",
+        "options_3": "PCM Sampler",
+        "options_4": "ADPCM Sampler"
+    },
+    {
+        "category": "Computers",
+        "difficulty": "hard",
+        "question": "Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?",
+        "correct_answer": "Cherry MX Blue",
+        "options_1": "Cherry MX Black",
+        "options_2": "Cherry MX Red",
+        "options_3": "Cherry MX Brown",
+        "options_4": "Cherry MX Blue"
+    }
+]

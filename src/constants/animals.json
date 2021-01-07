@@ -1,0 +1,301 @@
+[{
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+        "correct_answer": "Simien Jackel",
+        "options_1": "Ethiopian Coyote",
+        "options_2": "Amharic Fox",
+        "options_3": "Canis Simiensis",
+        "options_4": "Simien Jackel"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "What is the fastest  land animal?",
+        "correct_answer": "Cheetah",
+        "options_1": "Lion",
+        "options_2": "Thomson's Gazelle",
+        "options_3": "Pronghorn Antelope",
+        "options_4": "Cheetah"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "What is the scientific name for modern day humans?",
+        "correct_answer": "Homo Sapiens",
+        "options_1": "Homo Ergaster",
+        "options_2": "Homo Erectus",
+        "options_3": "Homo Neanderthalensis",
+        "options_4": "Homo Sapiens"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "The Kākāpō is a large, flightless, nocturnal parrot native to which country?",
+        "correct_answer": "New Zealand",
+        "options_1": "South Africa",
+        "options_2": "Australia",
+        "options_3": "Madagascar",
+        "options_4": "New Zealand"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "Which species of Brown Bear is not extinct?",
+        "correct_answer": "Syrian Brown Bear",
+        "options_1": "California Grizzly Bear",
+        "options_2": "Atlas Bear",
+        "options_3": "Mexican Grizzly Bear",
+        "options_4": "Syrian Brown Bear"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "Cashmere is the wool from which kind of animal?",
+        "correct_answer": "Goat",
+        "options_1": "Sheep",
+        "options_2": "Camel",
+        "options_3": "Llama",
+        "options_4": "Goat"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "How many legs do butterflies have?",
+        "correct_answer": "6",
+        "options_1": "2",
+        "options_2": "4",
+        "options_3": "0",
+        "options_4": "6"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "What scientific suborder does the family Hyaenidae belong to?",
+        "correct_answer": "Feliformia",
+        "options_1": "Haplorhini",
+        "options_2": "Caniformia",
+        "options_3": "Ciconiiformes",
+        "options_4": "Feliformia"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "How many known living species of hyenas are there?",
+        "correct_answer": "4",
+        "options_1": "8",
+        "options_2": "2",
+        "options_3": "6",
+        "options_4": "4"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "What scientific family does the Aardwolf belong to?",
+        "correct_answer": "Hyaenidae",
+        "options_1": "Canidae",
+        "options_2": "Felidae",
+        "options_3": "Eupleridae",
+        "options_4": "Hyaenidae"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "For what reason would a spotted hyena 'laugh'?",
+        "correct_answer": "Nervousness",
+        "options_1": "Excitement",
+        "options_2": "Aggression",
+        "options_3": "Exhaustion",
+        "options_4": "Nervousness"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "What is the scientific name of the Budgerigar?",
+        "correct_answer": "Melopsittacus undulatus",
+        "options_1": "Nymphicus hollandicus",
+        "options_2": "Pyrrhura molinae",
+        "options_3": "Ara macao",
+        "options_4": "Melopsittacus undulatus"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "Which animal was part of an Russian domestication experiment in 1959?",
+        "correct_answer": "Foxes",
+        "options_1": "Pigeons",
+        "options_2": "Bears",
+        "options_3": "Alligators",
+        "options_4": "Foxes"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "Which of these animals is NOT a lizard?",
+        "correct_answer": "Tuatara",
+        "options_1": "Komodo Dragon",
+        "options_2": "Gila Monster",
+        "options_3": "Green Iguana",
+        "options_4": "Tuatara"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "What type of creature is a Bonobo?",
+        "correct_answer": "Ape",
+        "options_1": "Lion",
+        "options_2": "Parrot",
+        "options_3": "Wildcat",
+        "options_4": "Ape"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "Which class of animals are newts members of?",
+        "correct_answer": "Amphibian",
+        "options_1": "Fish",
+        "options_2": "Reptiles",
+        "options_3": "Mammals",
+        "options_4": "Amphibian"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+        "correct_answer": "Hemocyanin",
+        "options_1": "Cytochrome",
+        "options_2": "Iron",
+        "options_3": "Methionine",
+        "options_4": "Hemocyanin"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "Which species is a 'mountain chicken'?",
+        "correct_answer": "Frog",
+        "options_1": "Chicken",
+        "options_2": "Horse",
+        "options_3": "Fly",
+        "options_4": "Frog"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "What is the fastest animal?",
+        "correct_answer": "Peregrine Falcon",
+        "options_1": "Golden Eagle",
+        "options_2": "Cheetah",
+        "options_3": "Horsefly",
+        "options_4": "Peregrine Falcon"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "What is the scientific name of the Common Chimpanzee?",
+        "correct_answer": "Pan troglodytes",
+        "options_1": "Gorilla gorilla",
+        "options_2": "Pan paniscus",
+        "options_3": "Panthera leo",
+        "options_4": "Pan troglodytes"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "By definition, where does an abyssopelagic animal live?",
+        "correct_answer": "At the bottom of the ocean",
+        "options_1": "In the desert",
+        "options_2": "On top of a mountain",
+        "options_3": "Inside a tree",
+        "options_4": "At the bottom of the ocean"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "Which of these is a colony of polyps and not a jellyfish?",
+        "correct_answer": "Portuguese Man-of-War",
+        "options_1": "Sea Wasp",
+        "options_2": "Irukandji",
+        "options_3": "Sea Nettle",
+        "options_4": "Portuguese Man-of-War"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "What is the common term for 'bovine spongiform encephalopathy' (BSE)?",
+        "correct_answer": "Mad Cow disease",
+        "options_1": "Weil's disease",
+        "options_2": "Milk fever",
+        "options_3": "Foot-and-mouth disease",
+        "options_4": "Mad Cow disease"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "How many teeth does an adult rabbit have?",
+        "correct_answer": "28",
+        "options_1": "30",
+        "options_2": "26",
+        "options_3": "24",
+        "options_4": "28"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "What is the name of a rabbit's abode?",
+        "correct_answer": "Burrow",
+        "options_1": "Nest",
+        "options_2": "Den",
+        "options_3": "Dray",
+        "options_4": "Burrow"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "What is the collective noun for bears?",
+        "correct_answer": "Sloth",
+        "options_1": "Drove",
+        "options_2": "Tribe",
+        "options_3": "Husk",
+        "options_4": "Sloth"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "What is the collective noun for rats?",
+        "correct_answer": "Mischief",
+        "options_1": "Pack",
+        "options_2": "Race",
+        "options_3": "Drift",
+        "options_4": "Mischief"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "What bird is born with claws on its wing digits?",
+        "correct_answer": "Hoatzin",
+        "options_1": "Cormorant",
+        "options_2": "Cassowary",
+        "options_3": "Secretary bird",
+        "options_4": "Hoatzin"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "To which biological phylum do all mammals, birds and reptiles belong?",
+        "correct_answer": "Chordata",
+        "options_1": "Echinodermata",
+        "options_2": "Annelida",
+        "options_3": "Placazoa",
+        "options_4": "Chordata"
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "What is the world's longest venomous snake?",
+        "correct_answer": "King Cobra",
+        "options_1": "Green Anaconda",
+        "options_2": "Inland Taipan",
+        "options_3": "Yellow Bellied Sea Snake",
+        "options_4": "King Cobra"
+    }
+]

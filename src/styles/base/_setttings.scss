@@ -1,0 +1,32 @@
+//colors
+$off-white: #f8f8f8;
+$dark-white: #f9f9f9;
+$orange: #ff9933; //#f77d42;
+$blue: #0099cc;
+$green: #33cc33;
+$dark-green: #0C6E15;
+$violet: #7A28CB;
+$red: #cc0000;
+$off-black: #333;
+$dark-grey: #494368;
+// sizes
+$xs: 0.5rem;
+$normal: 1rem;
+$sm: 1.5rem;
+$med: 2rem;
+$lg: 3rem;
+$xlg: 5rem;
+$xxlg: 7rem;
+//breakpoints
+$lg-breakpoint: 1024px;
+$med-breakpoint: 768px;
+$sm-breakpoint: 641px;
+$xs-breakpoint: 480px;
+//shadow
+$shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14),
+0 3px 1px -2px rgba(0, 0, 0, 0.12),
+0 1px 5px 0 rgba(0, 0, 0, 0.2);
+$text-shadow:-1px 1px 0 #000,
+1px 1px 0 #000,
+1px -1px 0 #000,
+-1px -1px 0 #000;

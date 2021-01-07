@@ -1,0 +1,301 @@
+[{
+        "category": "Sports",
+        "difficulty": "easy",
+        "question": "In golf, what name is given to a hole score of two under par?",
+        "correct_answer": "Eagle",
+        "options_1": "Birdie",
+        "options_2": "Bogey",
+        "options_3": "Albatross",
+        "options_4": "Eagle"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "medium",
+        "question": "Who was the British professional wrestler Shirley Crabtree better known as?",
+        "correct_answer": "Big Daddy",
+        "options_1": "Giant Haystacks",
+        "options_2": "Kendo Nagasaki",
+        "options_3": "Masambula",
+        "options_4": "Big Daddy"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "medium",
+        "question": "What is the nickname of Northampton town's rugby union club?",
+        "correct_answer": "Saints",
+        "options_1": "Harlequins",
+        "options_2": "Saracens",
+        "options_3": "Wasps",
+        "options_4": "Saints"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "medium",
+        "question": "Which Formula One driver was nicknamed 'The Professor'?",
+        "correct_answer": "Alain Prost",
+        "options_1": "Ayrton Senna",
+        "options_2": "Niki Lauda",
+        "options_3": "Emerson Fittipaldi",
+        "options_4": "Alain Prost"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "easy",
+        "question": "In baseball, how many fouls are an out?",
+        "correct_answer": "0",
+        "options_1": "5",
+        "options_2": "3",
+        "options_3": "2",
+        "options_4": "0"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "medium",
+        "question": "The F1 season of 1994 is remembered for what tragic event?",
+        "correct_answer": "Death of Ayrton Senna (San Marino)",
+        "options_1": "The Showdown (Australia)",
+        "options_2": "Verstappen on Fire (Germany)",
+        "options_3": "Schumacher's Ban (Britain)",
+        "options_4": "Death of Ayrton Senna (San Marino)"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "easy",
+        "question": "Who won the 2015 Formula 1 World Championship?",
+        "correct_answer": "Lewis Hamilton",
+        "options_1": "Nico Rosberg",
+        "options_2": "Sebastian Vettel",
+        "options_3": "Jenson Button",
+        "options_4": "Lewis Hamilton"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "easy",
+        "question": "Which driver has been the Formula 1 world champion for a record 7 times?",
+        "correct_answer": "Michael Schumacher",
+        "options_1": "Ayrton Senna",
+        "options_2": "Fernando Alonso",
+        "options_3": "Jim Clark",
+        "options_4": "Michael Schumacher"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "hard",
+        "question": "Where was the Games of the XXII Olympiad held?",
+        "correct_answer": "Moscow",
+        "options_1": "Barcelona",
+        "options_2": "Tokyo",
+        "options_3": "Los Angeles",
+        "options_4": "Moscow"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "hard",
+        "question": "Which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+        "correct_answer": "Mazda",
+        "options_1": "Toyota",
+        "options_2": "Subaru",
+        "options_3": "Nissan",
+        "options_4": "Mazda"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "medium",
+        "question": "Which soccer team won the Copa América 2015 Championship ?",
+        "correct_answer": "Chile",
+        "options_1": "Argentina",
+        "options_2": "Brazil",
+        "options_3": "Paraguay",
+        "options_4": "Chile"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "easy",
+        "question": "Which team won 2014 FIFA World Cup in Brazil?",
+        "correct_answer": "Germany",
+        "options_1": "Argentina",
+        "options_2": "Brazil",
+        "options_3": "Netherlands",
+        "options_4": "Germany"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "medium",
+        "question": "What national team won the 2016 edition of UEFA European Championship?",
+        "correct_answer": "Portugal",
+        "options_1": "France",
+        "options_2": "Germany",
+        "options_3": "England",
+        "options_4": "Portugal"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "easy",
+        "question": "In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+        "correct_answer": "4",
+        "options_1": "1",
+        "options_2": "2",
+        "options_3": "3",
+        "options_4": "4"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "easy",
+        "question": "Who won the 2016 Formula 1 World Driver's Championship?",
+        "correct_answer": "Nico Rosberg",
+        "options_1": "Lewis Hamilton",
+        "options_2": "Max Verstappen",
+        "options_3": "Kimi Raikkonen",
+        "options_4": "Nico Rosberg"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "easy",
+        "question": "What team won the 2016 MLS Cup?",
+        "correct_answer": "Seattle Sounders",
+        "options_1": "Colorado Rapids",
+        "options_2": "Toronto FC",
+        "options_3": "Montreal Impact",
+        "options_4": "Seattle Sounders"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "medium",
+        "question": "What is the oldest team in the NFL?",
+        "correct_answer": "Arizona Cardinals",
+        "options_1": "Chicago Bears",
+        "options_2": "Green Bay Packers",
+        "options_3": "New York Giants",
+        "options_4": "Arizona Cardinals"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "easy",
+        "question": "What year did the New Orleans Saints win the Super Bowl?",
+        "correct_answer": "2010",
+        "options_1": "2008",
+        "options_2": "2009",
+        "options_3": "2011",
+        "options_4": "2010"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "easy",
+        "question": "Which team has won the most Stanley Cups in the NHL?",
+        "correct_answer": "Montreal Canadians",
+        "options_1": "Chicago Blackhawks",
+        "options_2": "Toronto Maple Leafs",
+        "options_3": "Detroit Red Wings",
+        "options_4": "Montreal Canadians"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "hard",
+        "question": "What is the full name of the footballer Cristiano Ronaldo?",
+        "correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
+        "options_1": "Cristiano Ronaldo los Santos Diego",
+        "options_2": "Cristiano Armando Diego Ronaldo",
+        "options_3": "Cristiano Luis Armando Ronaldo",
+        "options_4": "Cristiano Ronaldo dos Santos Aveiro"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "medium",
+        "question": "Who won the 2015 College Football Playoff (CFP) National Championship?",
+        "correct_answer": "Ohio State Buckeyes",
+        "options_1": "Alabama Crimson Tide",
+        "options_2": "Clemson Tigers",
+        "options_3": "Wisconsin Badgers",
+        "options_4": "Ohio State Buckeyes"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "hard",
+        "question": "Which year was the third Super Bowl held?",
+        "correct_answer": "1969",
+        "options_1": "1968",
+        "options_2": "1971",
+        "options_3": "1970",
+        "options_4": "1969"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "medium",
+        "question": "Which of the following pitchers was named National League Rookie of the Year for the 2013 season?",
+        "correct_answer": "Jose Fernandez",
+        "options_1": "Jacob deGrom",
+        "options_2": "Shelby Miller",
+        "options_3": "Matt Harvey",
+        "options_4": "Jose Fernandez"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "medium",
+        "question": "Why was The Green Monster at Fenway Park was originally built?",
+        "correct_answer": "To prevent viewing games from outside the park.",
+        "options_1": "To make getting home runs harder.",
+        "options_2": "To display advertisements.",
+        "options_3": "To provide extra seating.",
+        "options_4": "To prevent viewing games from outside the park."
+    },
+    {
+        "category": "Sports",
+        "difficulty": "medium",
+        "question": "Which car manufacturer won the 2017 24 Hours of Le Mans?",
+        "correct_answer": "Porsche",
+        "options_1": "Toyota",
+        "options_2": "Audi",
+        "options_3": "Chevrolet",
+        "options_4": "Porsche"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "easy",
+        "question": "Which player holds the NHL record of 2,857 points?",
+        "correct_answer": "Wayne Gretzky",
+        "options_1": "Mario Lemieux",
+        "options_2": "Sidney Crosby",
+        "options_3": "Gordie Howe",
+        "options_4": "Wayne Gretzky"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "hard",
+        "question": "Which city features all of their professional sports teams' jersey's with the same color scheme?",
+        "correct_answer": "Pittsburgh",
+        "options_1": "New York",
+        "options_2": "Seattle",
+        "options_3": "Tampa Bay",
+        "options_4": "Pittsburgh"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "easy",
+        "question": "The Los Angeles Dodgers were originally from what U.S. city?",
+        "correct_answer": "Brooklyn",
+        "options_1": "Las Vegas",
+        "options_2": "Boston",
+        "options_3": "Seattle",
+        "options_4": "Brooklyn"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "medium",
+        "question": "Who was the topscorer for England national football team?",
+        "correct_answer": "Wayne Rooney",
+        "options_1": "David Beckham",
+        "options_2": "Steven Gerrard",
+        "options_3": "Michael Owen",
+        "options_4": "Wayne Rooney"
+    },
+    {
+        "category": "Sports",
+        "difficulty": "easy",
+        "question": "Who won the UEFA Champions League in 2016?",
+        "correct_answer": "Real Madrid C.F.",
+        "options_1": "FC Bayern Munich",
+        "options_2": "Atletico Madrid",
+        "options_3": "Manchester City F.C.",
+        "options_4": "Real Madrid C.F."
+    }
+]

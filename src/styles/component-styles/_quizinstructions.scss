@@ -1,0 +1,47 @@
+#inst-main {
+    background-image: url('../../assets/image/main-outer-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    .instructions-container {
+        border: 2px solid black;
+        background-color: $off-white;
+        border-radius: 5px;
+        margin: $lg;
+        padding: $sm $lg;
+        height: 70%;
+        h1 {
+            color: black;
+            font-size: $med;
+            text-align: center;
+        }
+        .back {
+            text-decoration: none;
+            margin-top: 5rem;
+            font-size: $normal;
+            background-color: $blue;
+            color: $off-white;
+            text-align: center;
+            cursor: pointer;
+            padding: $normal 0;
+            display: inline-block;
+            width: $xlg;
+            justify-content: space-around;
+            border-radius: 10px;
+            &:hover {
+                background-color: darken($blue, 10%);
+                box-shadow: $shadow;
+            }
+        }
+    }
+}
+
+@media(max-width: $med-breakpoint) {
+    #inst-main .instructions-container {
+        padding: 0 $normal;
+        width: 100%;
+        height: 80%;
+    }
+}
